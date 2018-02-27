@@ -5,9 +5,9 @@ Maintainer: Valentin <valenbcreations@gmail.com>
 Depends:
 Filename: /solid.deb
 Size: 259204
-MD5sum: d75863bac9975cd62e8b89647231a74e
-SHA1: 7444048165ea4cafb519ebbfa672427b5419f201
-SHA256: 4770997d8b8813b9af692129de27b49cf3c59d705736bcdd25a82799a2661fbd
+MD5sum: a8d7cab4803c10fd136f9ccfdf71ca63
+SHA1: 722c3569a14accd708f4bd0e0d4b3b960320f44b
+SHA256: 70c8c0dffa7e9e0f50022bb4c475b8bba08710eebbdd1ff734dcdcd99ffa6ee1
 Section: Themes
 Description: Yet another solid color theme
 Author: ValenB <valenbcreations@gmail.com>
