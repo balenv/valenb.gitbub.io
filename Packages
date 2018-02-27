@@ -5,9 +5,9 @@ Maintainer: Valentin <valenbcreations@gmail.com>
 Depends: Anemone
 Filename: /solid.deb
 Size: 259204
-MD5sum: b5810165bb84d4143d715a5dee8be0b9
-SHA1: c06430503f40d41a568b3366b09bff2171258ece
-SHA256: fbccf8bd7a448cae1578932ac2a20ae2a53cc4cc17f8425bc96ddd333f9f8526
+MD5sum: d75863bac9975cd62e8b89647231a74e
+SHA1: 7444048165ea4cafb519ebbfa672427b5419f201
+SHA256: 4770997d8b8813b9af692129de27b49cf3c59d705736bcdd25a82799a2661fbd
 Section: Themes
 Description: Yet another solid color theme
 Author: ValenB <valenbcreations@gmail.com>
