@@ -2,7 +2,7 @@ Package: solid
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Valentin <valenbcreations@gmail.com>
-Depends: com.anemonetheming.anemone
+Depends: Anemone
 Filename: /solid.deb
 Size: 259204
 MD5sum: b5810165bb84d4143d715a5dee8be0b9
