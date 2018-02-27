@@ -1,5 +1,5 @@
 Package: solid
-Version: <1.0>
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Valentin <valenbcreations@gmail.com>
 Depends: <com.anemonetheming.anemone>
