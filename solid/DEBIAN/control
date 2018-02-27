@@ -1,7 +1,7 @@
 Name: "SOLID"
 Version: "1.0"
 Architecture: iphoneos-arm
-Depends: "anemone"
+Depends: "com.anemonetheming.anemone"
 Description: "Yet another solid colors theme :)"
 Homepage: "sup bru"
 Depiction:
