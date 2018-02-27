@@ -1,0 +1,11 @@
+Name: "SOLID"
+Version: "1.0"
+Architecture: iphoneos-arm
+Depends: anemone"
+Description: "Yet another solid colors theme :)"
+Homepage: "sup bru"
+Depiction:
+Maintainer: "Valentín <valenbcreations@gmail.com>"
+Author: "ValenB <valenbcreations@gmail.com>"
+
+Section: "Themes"
