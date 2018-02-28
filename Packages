@@ -1,13 +1,13 @@
 Package: solid
-Version: 1.0
+Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: Valentin <valenbcreations@gmail.com>
 Depends:
 Filename: /solid.deb
-Size: 259242
-MD5sum: a8d7cab4803c10fd136f9ccfdf71ca63
-SHA1: 722c3569a14accd708f4bd0e0d4b3b960320f44b
-SHA256: 70c8c0dffa7e9e0f50022bb4c475b8bba08710eebbdd1ff734dcdcd99ffa6ee1
+Size: 332480
+MD5sum: 61be4f48af582cd2ac8de38ad58366c4
+SHA1: 6f941593c812d66db66459281b38d11dd6739565
+SHA256: 7762a4be0d2d8f96024993b2dae7f4662cebef7535bdb9d88e75e3c3ee0b1534
 Section: Themes
 Description: Yet another solid color theme
 Author: ValenB <valenbcreations@gmail.com>
